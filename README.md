@@ -11,7 +11,7 @@ Python Implementation
 
 - Network Used- Convolutional Neural Network
 
-Procedure
+Procedure -
 
 - First, you have to create a gesture database. For that, run CreateGest.py
 
